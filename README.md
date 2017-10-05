@@ -62,4 +62,10 @@ Descifrar
 
 ```
 
+#### Diagrama de flujo
+
++ https://cloud.smartdraw.com/share.aspx/?pubDocShare=6925C53321C8189925274F486D170684619
+
+
+
 ##### Versión de archivo `0.01`
